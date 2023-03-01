@@ -1,0 +1,54 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("table.png");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+    border: goldenrod solid 2px;
+    border-radius: 5px;
+    background-color: #966F33;
+    padding: 10px 0;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 
+3. Style the button according to the provided design
+text color - #016f32
+width      - 150px
+background - goldenrod
+ */
+ 
+
+button {
+    color: #016f32;
+    width: 150px;
+    margin-left: auto;
+    margin-right:auto;
+    padding: 5px 0px;
+    border-radius: 100px;
+    background: goldenrod;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 4px;
+
+
+}
+
+.container {
+    max-width: 300px;
+    margin: 0px auto;
+}
+
+
