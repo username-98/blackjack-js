@@ -1,6 +1,6 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
-    background-image: url("table.png");
+    background-image: url("img/table.png");
     background-size: cover;
     font-weight: bold;
     color: white;
@@ -49,6 +49,16 @@ button {
 .container {
     max-width: 300px;
     margin: 0px auto;
+}
+
+
+img {
+    width: 32px;
+    height: 32px;
+}
+
+.inline {
+    display: inline;
 }
 
 
